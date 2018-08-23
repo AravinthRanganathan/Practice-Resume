@@ -1,0 +1,38 @@
+.bgimg{
+
+	line-height: 25px;
+	border: 15px solid skyblue;
+}
+#a-address{
+	text-align: left;
+}
+#a-img{
+	width: 100%
+}
+#a-contact{
+	padding:20px 20px 20px 20px;
+}
+.obj{
+	padding-left: 80px;
+}
+#a-address{
+	padding-left: 80px;
+}
+#a-table{
+	/*border: 2px solid black;*/
+	text-align: center;
+}
+#a-divides{
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+a:hover{
+	color: blue;
+	text-decoration:none;
+}
+body{
+	padding-top: 20px;
+/*	background: url("img/bg1.png");
+	background-size: cover;*/
+
+}
